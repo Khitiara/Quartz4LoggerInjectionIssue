@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quartz4LoggerInjection", "Quartz4LoggerInjection.csproj", "{0BD91FC5-5B6B-470B-A586-3B5168E86D2C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0BD91FC5-5B6B-470B-A586-3B5168E86D2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BD91FC5-5B6B-470B-A586-3B5168E86D2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BD91FC5-5B6B-470B-A586-3B5168E86D2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BD91FC5-5B6B-470B-A586-3B5168E86D2C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
